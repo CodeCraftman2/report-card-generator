@@ -16,5 +16,19 @@ Demo: https://subhranshuchoudhury.github.io/report-card-generator/
 - JS
 - JQUERY
 
-# 
-# 🍫✨💖
+## Student Manager API
+
+This project also includes a Flask application for managing student records with CRUD operations.
+
+### Features
+
+- Create a new student record
+- Read all student records
+- Update an existing student record
+- Delete a student record
+
+### Setup
+
+1. Install the required packages:
+   ```bash
+   pip install flask flask_sqlalchemy
